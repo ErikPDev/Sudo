@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ErikX-PMMP/Sudo
+build-by-default: true
+branches:
+- master
+projects:
+  Sudo:
+    path: ""
+    icon: "resources/Sudo_Icon.png"
+...
