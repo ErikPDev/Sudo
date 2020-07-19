@@ -1,6 +1,6 @@
 name: Sudo
 author: ErikX
-api: 3.12.2
+api: 3.13.0
 version: 1.0  #This is where you put the version of the plugin
 main: ErikX\sudo\Main
 # "ExampleName" will be a folder in the src folder and "Main" will be the file in the "ExampleName" folder
