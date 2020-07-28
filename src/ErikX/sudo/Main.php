@@ -5,7 +5,7 @@ namespace ErikX\sudo;
 use pocketmine\plugin\PluginBase;
 
 // Event
-use pocketmine\event\player\PlayerJoinEvent;  //This is the event 
+use pocketmine\event\player\PlayerJoinEvent;  //This is the event
 use pocketmine\Player;
 use pocketmine\Server;
 use pocketmine\event\Listener;
@@ -19,12 +19,12 @@ use pocketmine\utils\TextFormat;
 class Main extends PluginBase implements Listener { //Added "implements Listener" because of the Listener event
 
     public function onEnable() {
-        $this->getServer()->getPluginManager()->registerEvents($this,$this); // This is the new line 
+        $this->getServer()->getPluginManager()->registerEvents($this,$this); // This is the new line
         $this->saveDefaultConfig(); // Saves config.yml if not created.
         $this->reloadConfig(); // Fix bugs sometimes by getting configs values
       }
     public function onLoad(){
-      $this->reloadConfig(); 
+      $this->reloadConfig();
     }
     public function onCommand(CommandSender $sender, Command $cmd, string $label, array $args) : bool {
       $prefix = TextFormat::GREEN . "[" . TextFormat::YELLOW . "Sudo" . TextFormat::GREEN . "] ";
@@ -49,5 +49,5 @@ class Main extends PluginBase implements Listener { //Added "implements Listener
       }
       return true;
     }
-  
+
 }
