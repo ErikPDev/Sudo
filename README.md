@@ -1,6 +1,6 @@
 # Sudo
 [![PoggitCI](https://poggit.pmmp.io/shield.state/Sudo)](https://poggit.pmmp.io/p/Sudo)
-[![Discord](https://discordapp.com/api/guilds/717993428423671818/embed.png)](https://discord.gg/ZyUUy57)
+
 ![GitHub All Releases](https://img.shields.io/github/downloads/ErikX-PMMP/Sudo/total)
 ![GitHub](https://img.shields.io/github/license/ErikX-PMMP/Sudo)
 [![HitCount](http://hits.dwyl.com/ErikX-PMMP/Sudo.svg)](http://hits.dwyl.com/ErikX-PMMP/Sudo)
