@@ -1,9 +1,7 @@
 # Sudo
 [![PoggitCI](https://poggit.pmmp.io/shield.state/Sudo)](https://poggit.pmmp.io/p/Sudo)
-
 ![GitHub All Releases](https://img.shields.io/github/downloads/ErikX-PMMP/Sudo/total)
 ![GitHub](https://img.shields.io/github/license/ErikX-PMMP/Sudo)
-[![HitCount](http://hits.dwyl.com/ErikX-PMMP/Sudo.svg)](http://hits.dwyl.com/ErikX-PMMP/Sudo)
 
 Time to sudo you!
 
