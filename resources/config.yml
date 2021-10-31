@@ -1,2 +1,3 @@
+prefix: "&a[&eSudo&a]"
 usage: "Usage: /sudo (player) (command)"
 notfound: "Player not found."
