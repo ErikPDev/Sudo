@@ -1,11 +1,8 @@
 name: Sudo
 author: ErikX
-api: 3.13.0
-version: 1.0  #This is where you put the version of the plugin
+api: 4.0.0
+version: 1.0
 main: ErikX\sudo\Main
-# "ExampleName" will be a folder in the src folder and "Main" will be the file in the "ExampleName" folder
- 
-# Commands If ur plugin has commands do this:
 
 commands:
   sudo:
