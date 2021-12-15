@@ -4,7 +4,7 @@ namespace ErikX\sudo;
 
 use pocketmine\plugin\PluginBase;
 
-use pocketmine\player\Player;
+use pocketmine\Player;
 use pocketmine\Server;
 use pocketmine\event\Listener;
 
